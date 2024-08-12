@@ -1,8 +1,8 @@
 # Marckdown
-GUIA DE MARCKDOWN
+GUIA DE MARKDOWN
 ![image](https://github.com/user-attachments/assets/284c3132-3235-464a-9465-80097c20f250)
 Alumno: Santos Mohn y Lucio Araoz
-Curso:6to Gradow
+Curso:6to Año
 
 Encabezados
 Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados. Debes usarlos añadiendo uno por cada nivel.
